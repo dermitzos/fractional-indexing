@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fractional-indexing": "^3.1.0",
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  },
+  "type": "module"
+}
